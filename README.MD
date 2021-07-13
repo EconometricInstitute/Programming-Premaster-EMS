@@ -16,9 +16,9 @@ In th second exercise you have to write a class that counts number in a silly wa
 
 We have three more suggestions for exercises from our course materials that you can use to assess your level:
 
-* [Elements on the Diagonal](https://feb21011.ese.eur.nl/week-4/2-multidimensional-data#programming-exercise-elements-on-the-diagonal)
-* [Cargo Hold](https://feb21011.ese.eur.nl/week-6/1-objects-within-objectsprogramming-exercise-cargo-hold-6-parts)
-* [Averages](https://feb21011.ese.eur.nl/week-6/3-separating-user-interface-from-program-logicprogramming-exercise-averages-3-parts)
+* ["Elements on the Diagonal" in Week 4 part 2](https://feb21011.ese.eur.nl/week-4/2-multidimensional-data)
+* ["Cargo Hold" in Week 6 part 1](https://feb21011.ese.eur.nl/week-6/1-objects-within-objects)
+* ["Averages" in Week 6 part 3](https://feb21011.ese.eur.nl/week-6/3-separating-user-interface-from-program-logic)
 
 # Old exam
 [The old exam](exam.md) consists of four exercises: a theory exercise, an exercise that focuses on input and output, an exercise that focuses on arrays, and a final exercise that focuses on object-oriented programming. Note that students were expected to make this exam in 2 hours, and they were only allowed to use an IDE (e.g. IntelliJ, Eclipse) and the [Java documentation](https://docs.oracle.com/en/java/javase/11/docs/api/index.html).
